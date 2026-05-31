@@ -11,7 +11,7 @@ A SQL-based analysis of Melbourne's commercial landscape and pedestrian activity
 - Pedestrian Counting System Hourly Counts 2025 (812,178 records)
 - Pedestrian Sensor Locations (137 sensors)
 
-📊 **[View Tableau Dashboard](https://public.tableau.com/views/MelbourneCBDBusinessFootTrafficAnalysis/MelbourneCBDBusinessandFootTraffic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View Tableau Dashboard](https://public.tableau.com/views/MelbourneCBDBusinessFootTrafficAnalysis/MelbourneCBDBusinessandFootTraffic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -220,7 +220,7 @@ The interactive Tableau dashboard includes 5 visualisations:
 4. **Melbourne CBD Commercial Vacancy Rate (2015–2024)** area chart showing vacancy rate surging from ~15% pre-COVID to nearly 30% post-COVID
 5. **Average Hourly Pedestrian Activity Across Melbourne CBD (2025)** line chart with annotated morning, lunch, and evening peaks, plus reference lines at key hours
 
-📊 **[View the full dashboard on Tableau Public](https://public.tableau.com/views/MelbourneCBDBusinessFootTrafficAnalysis/MelbourneCBDBusinessandFootTraffic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the full dashboard on Tableau Public](https://public.tableau.com/views/MelbourneCBDBusinessFootTrafficAnalysis/MelbourneCBDBusinessandFootTraffic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
